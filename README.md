@@ -6,7 +6,6 @@ TVSharper is a modification of the original TVSharp with some extra features suc
  - Direct sampling support (toggle-able)
  - Support for frequencies below 10 MHz
  - The video window is now a normal window visible in the taskbar
- - There are now seperate 3.0 MSPS PAL and NTSC modes (experimental)
 
 Removed features: 
  - Built-in gain control (replaced with direct sampling option)
@@ -14,6 +13,7 @@ Removed features:
 To-do:
  - [ ] Better layout
  - [ ] Fix bug where the screen constantly moves horizontally when on 2.5MSPS PAL SECAM mode
+ - [ ] Seperate 3.0 MSPS PAL and NTSC modes 
 
 
 ## Credits: 
