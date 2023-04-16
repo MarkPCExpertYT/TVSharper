@@ -13,6 +13,7 @@ Removed features:
 To-do:
  - [ ] Better layout
  - [ ] Fix bug where the screen constantly moves horizontally when on 2.5MSPS PAL SECAM mode
+ - [ ] Fix bug where the program sometimes randomly throws an ArgumentException "The frequency cannot be set"
  - [ ] Seperate 3.0 MSPS PAL and NTSC modes 
 
 
