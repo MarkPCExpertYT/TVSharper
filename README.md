@@ -19,6 +19,7 @@ To-do:
 ## Credits: 
 
  - Youssef Touil and Ian Gilmour for the original code
+ - JetBrains for the DotPeek decompiler
  - Me for the extra features
 
 ### If the original authors want this taken down, I will do so.
