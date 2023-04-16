@@ -8,7 +8,7 @@ TVSharper is a modification of the original TVSharp with some extra features suc
  - The video window is now a normal window visible in the taskbar
 
 Removed features: 
- - Built-in gain control (replaced with direct sampling option)
+ - Built-in program gain control (replaced with direct sampling option)
 
 To-do:
  - [ ] Better layout
