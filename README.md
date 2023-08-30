@@ -1,3 +1,6 @@
+# UPDATE
+### Since i usually do not program in C#, i'm looking for a decompiler that decompiles to VB.NET. If i find it i will rename this branch to "old" and will make a new "main" branch with the VB version. if not i may continue updating this.
+
 # TVSharper
 ### An analog TV decoder for the RTL-SDR (but sharper).
 help me find a new name.
