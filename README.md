@@ -22,5 +22,6 @@ To-do:
  - Youssef Touil and Ian Gilmour for the original code
  - JetBrains for the DotPeek decompiler
  - Me for the extra features
+ - Microsoft for the icon
 
 ### If the original authors want this taken down, I will do so.
