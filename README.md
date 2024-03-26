@@ -1,3 +1,7 @@
+# NEW UPDATE (26-3-2024)
+### Since I don't regularly code C#, and thus don't know how to fix the bugs in this program, I'll be archiving this repo, because I can't continue developing this.
+You can still fork it and improve it yourself, but I won't be improving this anymore.
+
 # UPDATE
 ### Since i usually do not program in C#, i'm looking for a decompiler that decompiles to VB.NET. If i find it i will rename this branch to "old" and will make a new "main" branch with the VB version. if not i may continue updating this.
 
